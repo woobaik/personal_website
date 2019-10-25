@@ -3151,3 +3151,8 @@ input, select, textarea {
 	ul.icons {
 		letter-spacing: 0.2rem;
 	}
+
+	footer a.button {
+		background-color: #c0362c;
+		margin: 0.5rem;
+	}
