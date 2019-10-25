@@ -3127,7 +3127,7 @@ input, select, textarea {
 					padding: 0 0.5em 0 0.5em;
 				}
 
-				.carousel article {	
+				.carousel article {
 					width: 14em;
 					padding-bottom: 2em;
 					margin: 0 0.5em 0 0;
@@ -3137,12 +3137,4 @@ input, select, textarea {
 						margin-bottom: 2em;
 					}
 
-	}
-
-	#contact-img {
-		padding-top: 2rem;
-	}
-
-	#final-msg {
-		letter-spacing: 0.4rem;
 	}
